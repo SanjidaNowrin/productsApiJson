@@ -116,29 +116,5 @@
       { amount: 1, name: "3.5mm 7.5m Audio Cable" },
       { amount: 1, name: "7.5m Optical Cable" },
     ],
-  },
-  {
-    id: 6,
-    category: "earphones",
-    is_featured: false,
-    name: "YX1 WIRELESS",
-    description:
-      "Tailor your listening experience with bespoke dynamic drivers from the new YX1 Wireless Earphones. Enjoy incredible high-fidelity sound even in noisy environments with its active noise cancellation feature.",
-    featuredImage: { source: require("../assets/images/yx1.png") },
-    images: [
-      { source: require("../assets/images/yx1-1.png") },
-      { source: require("../assets/images/yx1-2.png") },
-      { source: require("../assets/images/yx1-3.png") },
-    ],
-    price: 600,
-    features:
-      "Experience unrivalled stereo sound thanks to innovative acoustic technology. With improved ergonomics designed for full day wearing, these revolutionary earphones have been finely crafted to provide you with the perfect fit, delivering complete comfort all day long while enjoying exceptional noise isolation and truly immersive sound. The YX1 Wireless Earphones features customizable controls for volume, music, calls, and voice assistants built into both earbuds. The new 7-hour battery life can be extended up to 28 hours with the charging case, giving you uninterrupted play time. Exquisite craftsmanship with a splash resistant design now available in an all new white and grey color scheme as well as the popular classic black.",
-    includedItems: [
-      { amount: 2, name: "Earphone Unit" },
-      { amount: 6, name: "Multi-size Earplugs" },
-      { amount: 1, name: "User Manual" },
-      { amount: 1, name: "USB-C Charging Cable" },
-      { amount: 1, name: "Travel Pouch" },
-    ],
-  },
+  }
 ];
